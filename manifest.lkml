@@ -10,7 +10,7 @@ application: query-builder {
 }
 
 visualization: {
-  id: "elliot-test"
-  label: "elliot-test"
+  id: "elliot-test-2"
+  label: "elliot-test-2"
   file: "helloworld.js"
 }
