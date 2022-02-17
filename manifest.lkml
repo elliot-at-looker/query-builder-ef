@@ -8,9 +8,3 @@ application: query-builder {
     use_embeds: yes
   }
 }
-
-visualization: {
-  id: "elliot-test-2"
-  label: "elliot-test-2"
-  file: "helloworld.js"
-}
